@@ -1,2 +1,3 @@
 # migcol
-Data manuscript development-migration nexus in Colombia
+Data for manuscript development-migration nexus in Colombia.
+Shapefile subset of states used for Colombia.
